@@ -1,10 +1,10 @@
 # Gif & Sticker Search
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8811cc2f-2fb9-4ae5-a969-73625461d818/deploy-status)](https://app.netlify.com/sites/boisterous-sunshine-473af2/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8811cc2f-2fb9-4ae5-a969-73625461d818/deploy-status)](https://app.netlify.com/sites/gifs-stickers-473af2/deploys)
 
 #### • A web app to search for gifs and stickers.
 
 #### • Built with CSS, HTML, JS and Giphy API.
-#### • [Live Demo]()
+#### • [Live Demo](https://gifs-stickers-473af2.netlify.app/)
 
 ## How to Use ?
 1. Clone the repo

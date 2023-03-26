@@ -22,7 +22,8 @@
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/62820550/227795227-7f7d1c1a-63cb-413c-8109-610425d82cf5.png)
-![image](https://user-images.githubusercontent.com/62820550/227795346-740ce290-c243-4dae-9350-5ff8f26d3f2a.png)
+![image](https://user-images.githubusercontent.com/62820550/227795419-3af41837-e018-4ae5-bc8c-c1a8ddde4dd0.png)
+
 
 ## Issues
 - Not a responsive site
